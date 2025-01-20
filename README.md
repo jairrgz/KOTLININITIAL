@@ -6,7 +6,8 @@ JAIR RAMIREZ GASTON
 
 1. INTRODUCCION A KOTLIN
 2. HERRAMIENTAS O ENTORNOS DE DESARROLLO
-<img width="702" alt="Screenshot 2025-01-19 at 4 35 01 PM" src="https://github.com/user-attachments/assets/a367d35d-e6b0-4137-bb74-a85a8b96936f" />
+<img width="558" alt="Screenshot 2025-01-19 at 7 20 57 PM" src="https://github.com/user-attachments/assets/49fbdf6d-f985-438b-876b-e21211c0e387" />
+
 
 
    
