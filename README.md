@@ -23,4 +23,9 @@ JAIR RAMIREZ GASTON
 3.8 Funciones
 3.9 Ejercicios (LAB)
 
-4. 
+<img width="544" alt="Screenshot 2025-01-19 at 7 21 39 PM" src="https://github.com/user-attachments/assets/eeaec8cb-5c35-444a-8d5b-e64c991cb28a" />
+
+
+
+
+
