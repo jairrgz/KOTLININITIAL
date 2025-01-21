@@ -26,6 +26,31 @@ JAIR RAMIREZ GASTON
 <img width="544" alt="Screenshot 2025-01-19 at 7 21 39 PM" src="https://github.com/user-attachments/assets/eeaec8cb-5c35-444a-8d5b-e64c991cb28a" />
 
 
+4. CONDICIONALES, CICLOS Y FUNCIONES
+
+4.1 IF ELSE
+4.2 When
+4.3 For
+4.4 While
+4.5 Funciones
+4.6 Ejercicios (LAB)
+
+5. PROGRAMACION ORIENTADA A OBJETOS EN KOTLIN
+
+5.1 Métodos
+5.2 Clases
+5.3 Propiedades
+5.4 Objetos
+5.5 Constructores
+5.6 Herencia
+5.7 Resumen
+
+6.INTRODUCCION AL DESSARROLLO DE APLICACIONES ANDROID CON KOTLIN
+
+6.1. Sitio Oficial de Android Studio
+6.2 Android Developer
+6.3 Resumen
+
 
 
 
