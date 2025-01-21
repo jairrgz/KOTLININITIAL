@@ -48,6 +48,10 @@ JAIR RAMIREZ GASTON
 6.INTRODUCCION AL DESSARROLLO DE APLICACIONES ANDROID CON KOTLIN
 
 6.1. Sitio Oficial de Android Studio
+https://www.android.com/
+![image](https://github.com/user-attachments/assets/f80837f2-1c9f-4f14-93b8-4790e59b3861)
+
+
 6.2 Android Developer
 6.3 Resumen
 
