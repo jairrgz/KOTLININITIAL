@@ -91,3 +91,12 @@ NOTAS:
 
 
 
+
+
+
+
+NOTAS:
+
+Sintáxis básica de programación
+
+/var/folders/gv/y_lpstn54zb8ppq4rwwhyf540000gp/T/TemporaryItems/NSIRD_screencaptureui_CGy0Mb/Screenshot 2025-01-21 at 11.44.41 PM.png
