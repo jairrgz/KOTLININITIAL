@@ -56,5 +56,9 @@ https://www.android.com/
 6.3 Resumen
 
 
+NOTAS:
+<img width="1202" alt="Screenshot 2025-01-21 at 11 47 49 PM" src="https://github.com/user-attachments/assets/876e8afc-86e4-4a0c-9d0d-59894a2fc7af" />
+
+
 
 
