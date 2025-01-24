@@ -59,6 +59,12 @@ https://www.android.com/
 NOTAS:
 <img width="1202" alt="Screenshot 2025-01-21 at 11 47 49 PM" src="https://github.com/user-attachments/assets/876e8afc-86e4-4a0c-9d0d-59894a2fc7af" />
 
+<img width="792" alt="Screenshot 2025-01-23 at 9 48 24 PM" src="https://github.com/user-attachments/assets/a40e2acc-1696-4388-b88e-a0b8a2fc6380" />
+<img width="630" alt="Screenshot 2025-01-23 at 9 48 32 PM" src="https://github.com/user-attachments/assets/5beb9842-26b5-4220-b930-841be338f569" />
 
+<img width="636" alt="Screenshot 2025-01-23 at 9 48 43 PM" src="https://github.com/user-attachments/assets/04f6269f-efe4-49b3-98ad-3b64d10eab0a" />
 
+<img width="516" alt="Screenshot 2025-01-23 at 9 49 06 PM" src="https://github.com/user-attachments/assets/d1dc060a-6014-4697-84da-79257a93ad7a" />
+
+<img width="585" alt="Screenshot 2025-01-23 at 9 51 01 PM" src="https://github.com/user-attachments/assets/cb4e4195-a45d-440a-b635-ca1205041c53" />
 
