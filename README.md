@@ -68,3 +68,26 @@ NOTAS:
 
 <img width="585" alt="Screenshot 2025-01-23 at 9 51 01 PM" src="https://github.com/user-attachments/assets/cb4e4195-a45d-440a-b635-ca1205041c53" />
 
+<img width="863" alt="Screenshot 2025-01-25 at 4 42 20 PM" src="https://github.com/user-attachments/assets/c867d290-6f34-48ee-ba09-a5cef020ef38" />
+<img width="691" alt="Screenshot 2025-01-25 at 4 42 39 PM" src="https://github.com/user-attachments/assets/07bdf017-cf45-470c-bcf3-4eb9c1053fe2" />
+<img width="968" alt="Screenshot 2025-01-25 at 4 48 52 PM" src="https://github.com/user-attachments/assets/7168e3d5-0d26-43f7-9b4c-500b34c2fbea" />
+<img width="587" alt="Screenshot 2025-01-25 at 4 49 12 PM" src="https://github.com/user-attachments/assets/216d54ed-bdb3-4bba-9192-913acfaadea3" />
+<img width="746" alt="Screenshot 2025-01-25 at 4 49 34 PM" src="https://github.com/user-attachments/assets/7724039a-d65c-45ae-b684-fcda349c9dc6" />
+<img width="843" alt="Screenshot 2025-01-25 at 4 49 59 PM" src="https://github.com/user-attachments/assets/0267ab13-e094-4fe4-a551-09ac8848f33b" />
+<img width="919" alt="Screenshot 2025-01-25 at 4 50 29 PM" src="https://github.com/user-attachments/assets/f57ba83f-939e-4408-b60c-f9f089b9b325" />
+
+<img width="497" alt="Screenshot 2025-01-25 at 4 50 59 PM" src="https://github.com/user-attachments/assets/9983a864-8211-4e9f-9112-63c9c30b789b" />
+
+<img width="687" alt="Screenshot 2025-01-25 at 4 51 32 PM" src="https://github.com/user-attachments/assets/232fad21-4a35-46fb-8181-108896454e4f" />
+<img width="693" alt="Screenshot 2025-01-25 at 4 51 55 PM" src="https://github.com/user-attachments/assets/599075db-c638-46a1-ba22-730b9d1df3ed" />
+<img width="636" alt="Screenshot 2025-01-25 at 4 52 07 PM" src="https://github.com/user-attachments/assets/1e952b4e-0763-4abb-b055-d65132391905" />
+
+<img width="622" alt="Screenshot 2025-01-25 at 4 52 17 PM" src="https://github.com/user-attachments/assets/86cf247d-df29-413a-a929-814b3ab71550" />
+
+<img width="1120" alt="Screenshot 2025-01-25 at 4 52 43 PM" src="https://github.com/user-attachments/assets/43dd4ddb-6f84-4aff-b5a5-3a1e03b7eb41" />
+<img width="1041" alt="Screenshot 2025-01-25 at 4 52 59 PM" src="https://github.com/user-attachments/assets/1d8526a8-74d2-4110-9e71-937a1ee7757d" />
+
+
+
+
+
